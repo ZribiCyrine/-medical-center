@@ -24,7 +24,7 @@ public class database {
     private ResultSet rs;
     private String dbName = "central_db";
     private String userName = "root";
-    private String password = "admin";
+    private String password = "root";
     private String host = "localhost";
     private String url = "jdbc:mysql://"+host+"/"+dbName;
 
